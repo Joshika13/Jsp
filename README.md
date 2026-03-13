@@ -1,2 +1,16 @@
-# Python Basics
-Daily coding and project progress for my learning journey.
+# Python Practice
+
+This repository contains my Python practice programs.
+
+## Topics Covered
+- Patterns
+- Loops
+- Numbers
+- Basic Python Programs
+
+## Programs
+- Age calculator
+- Multiplication table
+- Pattern printing
+- Sum of numbers
+- Temperature conversion
